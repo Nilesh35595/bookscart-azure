@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-14T12:56:19 IST" name="Suite" finished-at="2024-03-14T12:59:04 IST" duration-ms="165361">
+    <groups>
+    </groups>
+    <test started-at="2024-03-14T12:56:19 IST" name="Test" finished-at="2024-03-14T12:59:04 IST" duration-ms="165361">
+      <class name="com.bookscart.azure.test.RegisterUserTest">
+        <test-method signature="registerUser()[pri:0, instance:com.bookscart.azure.test.RegisterUserTest@4082ba93]" started-at="2024-03-14T12:58:42 IST" name="registerUser" finished-at="2024-03-14T12:59:03 IST" duration-ms="21770" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerUser -->
+      </class> <!-- com.bookscart.azure.test.RegisterUserTest -->
+      <class name="com.bookscart.azure.test.CartTest">
+        <test-method signature="validateCartDetailsUpdate()[pri:0, instance:com.bookscart.azure.test.CartTest@48bb62]" started-at="2024-03-14T12:56:19 IST" name="validateCartDetailsUpdate" description="Add and remove items from the cart, validate corresponding item details update in the cart" finished-at="2024-03-14T12:58:41 IST" duration-ms="141693" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCartDetailsUpdate -->
+      </class> <!-- com.bookscart.azure.test.CartTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
